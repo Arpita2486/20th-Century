@@ -1,0 +1,82 @@
+country1,country2,weight
+France,Germany,5
+France,United Kingdom,4
+Japan,United States,4
+Germany,United Kingdom,3
+China,North Korea,3
+Germany,Poland,3
+China,Japan,3
+Germany,Japan,2
+France,Poland,2
+India,Pakistan,2
+Denmark,Norway,2
+Czechoslovakia,Yugoslavia,2
+Czechoslovakia,Poland,2
+Japan,Russia,2
+Germany,Italy,2
+Poland,Soviet Union,2
+China,India,2
+Poland,United Kingdom,2
+Austria,Germany,2
+North Korea,United States,1
+India,Israel,1
+Poland,Yugoslavia,1
+India,North Korea,1
+India,Japan,1
+Russia,United States,1
+Hungary,Yugoslavia,1
+South Korea,United States,1
+South Vietnam,United States,1
+Hungary,Poland,1
+Greece,Yugoslavia,1
+Ghana,Kenya,1
+India,Russia,1
+Iran,Iraq,1
+North Korea,South Korea,1
+Israel,North Korea,1
+Israel,Pakistan,1
+Pakistan,Russia,1
+Israel,Russia,1
+North Vietnam,United States,1
+Israel,South Africa,1
+Germany,United States,1
+North Korea,Vietnam,1
+Japan,West Germany,1
+Korea,Vietnam,1
+North Korea,Pakistan,1
+North Korea,Russia,1
+Italy,Japan,1
+Algeria,Morocco,1
+Germany,Sweden,1
+Cuba,North Korea,1
+Australia,United Kingdom,1
+Austria,France,1
+Belgium,Netherlands,1
+Canada,Japan,1
+Canada,Russia,1
+Canada,United Kingdom,1
+China,Cuba,1
+China,France,1
+China,Israel,1
+China,Pakistan,1
+China,Russia,1
+China,South Korea,1
+China,United States,1
+China,Vietnam,1
+Cuba,Vietnam,1
+Germany,Soviet Union,1
+Czechoslovakia,East Germany,1
+Czechoslovakia,France,1
+Czechoslovakia,Hungary,1
+Czechoslovakia,United Kingdom,1
+East Germany,Hungary,1
+East Germany,Poland,1
+East Germany,Yugoslavia,1
+France,India,1
+France,Israel,1
+France,North Korea,1
+France,Pakistan,1
+France,Russia,1
+Australia,Canada,1
+Germany,Russia,1
+United Kingdom,United States,1
